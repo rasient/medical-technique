@@ -91,7 +91,7 @@ var questionAnswers = [
 	answer: '7: Hosszúság - m</br>Tömeg - kg</br>Idő - s</br>Villamosáram erőssége - A</br>Termodinamikai hőmérséklet - K</br>Anyagmennyiség - mol</br>Fényerősség - cd'
 },{
 	question: 'Mire jó a prefixum?',
-	answer: 'A sok számjegy leírásától kímélnek meg (egyszerűsítés).</br>giga G 10^9</br>mega M 10^6</br>kilo k 10^3</br>hekto h 10^2</br>deka dk 10</br>deci d 10^-1</br> centi c 10^-2</br>milli m 10^-3</br>mikro μ 10^-6/br>nano n 10^-9/br>piko p 10^-12'
+	answer: 'A sok számjegy leírásától kímélnek meg (egyszerűsítés).</br>giga G 10^9</br>mega M 10^6</br>kilo k 10^3</br>hekto h 10^2</br>deka dk 10</br>deci d 10^-1</br> centi c 10^-2</br>milli m 10^-3</br>mikro μ 10^-6</br>nano n 10^-9</br>piko p 10^-12'
 },{
 	question: 'Mit jelent az analóg jel?',
 	answer: 'A kijelző folytonos értéket ad.</br>Már ritka, régebben sokat használt</br>nehéz leolvasni, de végtelen pontos</br><img src="img/analog.png">'
@@ -159,7 +159,7 @@ var questionAnswers = [
 	answer: 'Mert közvetlenül a szívbe juttatva fibrillációt okozhat.'
 },{
 	question: 'Mi a vulnerábilis szakasz a szívciklusban?',
-	answer: 'Különösen veszélyes időszak, a T-hullám felfutásától kezdődően, amikor már 20-50 μA (50 Hz-es) áram kamrai fibrillációt okozhat!</br><img src="img/vb_v.png">'
+	answer: 'Különösen veszélyes időszak, a T-hullám felfutásától kezdődően, amikor már 20-50 μA (50 Hz-es) áram kamrai fibrillációt okozhat!</br><img src="img/t_hullam.png">'
 },{
 	question: 'Mi jellemzi a villamosan jó-, a közepes vezető, és a szigetelő anyagokat?',
 	answer: '<b>Jó vezető:</b> bármely pontjára juttatva a villamos potenciált, a vezető minden pontjára eljut, és azonnal megjelenik. Az áram nagyon könnyen szétoszlik. -> fémek, elektrolitok (víz), villanyvezetékek</br><b>Közepes vezető:</b> nehezen jut át a villamos potenciál, közben megoszlik, arányosan veszítve energiájából. Az áram nehezen oszlik szét -> emberi test, izzószál, villamos alkatrészek</br><b>Szigetelőanyag:</b> bármely pontjára juttatva a villamos potenciált, ugyanazon a ponton marad, nem jut tovább. Az áram nagyon nehezen oszlik szét -> szigetelők, levegő, bútorok, száraz ruha'
