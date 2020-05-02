@@ -371,6 +371,69 @@ var questionAnswers = [
 },{
 	question: 'Mikor jön létre a teljesítmény túladagolása?',
 	answer: 'a fehérjekicsapódás 70°C-on következik be, ha ezt követően tovább melegítjük a felületet, a felület elszenesedik, megég (túlkoagulálás). Ez nehezíti a sebgyógyulást.'
+},{
+	question: 'Mi a kisfrekvenciás elektroterápia lényege?',
+	answer: 'Alig vált ki hő- és vegyihatásokat, ugyanakkor az idegeket, izmokat ingerületbe hozza (-> izomtornáztató kezelés).'
+},{
+	question: 'Miért a kisfrekvenciás áramot használják ingerterápiára?',
+	answer: 'Alig vált ki hőés vegyihatásokat, ugyanakkor az idegeket, izmokat ingerületbe hozza (-> izomtornáztató kezelés).'
+},{
+	question: 'Milyen jelenségeket hoz létre az emberi szervezetben a bevitt elektromos áram?',
+	answer: 'ingerület, ingerületvezetés, izomösszehúzódás'
+},{
+	question: 'Mit jelent az ingerterápiás áramforma kifejezés?',
+	answer: 'Az áram erősségének időbeli változása grafikusan. Leggyakrabban egyenáram, négyszög, háromszög, exponenciális'
+},{
+	question: 'Magyarázza meg az I/t görbe jelentőségét?',
+	answer: 'Az adott áramformával kiváltható izomválasznak az áram és impulzus időtartam összefüggéseit mutatja be'
+},{
+	question: 'Hogyan reagálnak a harántcsíkolt izmok négyszöghullám ingerlésre?',
+	answer: 'ingerületbe jönnek (ha egészségesek)'
+},{
+	question: 'Hogyan reagálnak a harántcsíkolt izmok háromszöghullám ingerlésre?',
+	answer: 'az egészséges izmok nem, de a degenerált izmok ingerületbe jönnek tőle'
+},{
+	question: 'Mit nevezünk szelektív ingerlésnek?',
+	answer: 'Az egészséges izmot nem ingerli, de a beteget igen.'
+},{
+	question: 'Milyen frekvenciájú áramingerlésre legérzékenyebb az emberi szervezet?',
+	answer: '50Hz körülire'
+},{
+	question: 'Milyen egyenáramú kezelési módokat ismer?',
+	answer: 'galvanizáció, iontoforézis'
+},{
+	question: 'Milyen impulzuskezelési módokat ismer?',
+	answer: 'négyszög illetve trapéz impulzusok; lehet egyedi, vagy csomagban'
+},{
+	question: 'Mit nevezünk diadinamikus áramformának?',
+	answer: 'Amikor a teljes szinuszhullámok helyett, félhullámok variációival valósítanak meg kezelésket.'
+},{
+	question: 'Mi a sokkimpulzus kezelés?',
+	answer: 'Áramütést mérnek az agyra (ennek hatására törlődik a memória egy része).'
+},{
+	question: 'Mi az interferencia-áramú kezelés előnye?',
+	answer: 'Mélyen lévő izmokat lehet vele tornáztatni.'
+},{
+	question: 'Hol használnak TENS-kezelést?',
+	answer: 'bőrön keresztül'
+},{
+	question: 'Hogyan szokták kombinálni az elektroterápiás kezeléseket?',
+	answer: 'az elektroterápiás ingeráramot kombinálják más hatásokkal (pl vízfürdő, vákuumterápia, ultrahang-terápia)'
+},{
+	question: 'Mi az elektroakupunktúra?',
+	answer: 'Tűt szúrnak az akupunktúrás pontba és áramot vezetnek bele.'
+},{
+	question: 'Hogyan használják az implantált idegstimulátorokat?',
+	answer: 'A vezérlőkészüléket a szívpacemakerekhez hasonló módon helyezik el, többnyire a mellkas felső részén, a bőr alatt. Innen vezetik be az elektródot a kívánt ingerlési ponthoz.'
+},{
+	question: 'Milyen elektródok használata szokásos az elektromos ingerterápiában?',
+	answer: 'gömbelektród, lapelektród, szívelektród'
+},{
+	question: '.Milyen gyakorisággal kell felülvizsgáltatni a hálózati üzemű elektroterápiás eszközöket?',
+	answer: '3 évente'
+},{
+	question: '.Mire kell ügyelni az elektromos ingerterápiás kezelések során?',
+	answer: 'Nem lehet az elektródokat közvetlen bőrfelületre helyezni, mert égési sérülést okoznak. (Ezek elkerülése végett minden esetben köztianyagot kell alkalmazni, mely legalább 1cm-rel nagyobb az elektródnál.)'
 }
 ];
 
