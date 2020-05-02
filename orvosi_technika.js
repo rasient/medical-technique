@@ -432,8 +432,65 @@ var questionAnswers = [
 	question: '.Milyen gyakorisággal kell felülvizsgáltatni a hálózati üzemű elektroterápiás eszközöket?',
 	answer: '3 évente'
 },{
-	question: '.Mire kell ügyelni az elektromos ingerterápiás kezelések során?',
+	question: 'Mire kell ügyelni az elektromos ingerterápiás kezelések során?',
 	answer: 'Nem lehet az elektródokat közvetlen bőrfelületre helyezni, mert égési sérülést okoznak. (Ezek elkerülése végett minden esetben köztianyagot kell alkalmazni, mely legalább 1cm-rel nagyobb az elektródnál.)'
+},{
+	question: 'Ismertesse a szív ingerképzési és ingervezetési rendszerét!',
+	answer: 'A szinuszcsomóban jön létre az ingerület, innen tovább megy a pitvarkamrai csomóba, HIS-köteg, Tawara-szárak, Purkinje-rostok'
+},{
+	question: 'Mi történik a szinuszcsomó ingerképzésének leállásakor?',
+	answer: 'beindul a szív kamrai automáciája'
+},{
+	question: 'Mi az EKG-képe az aszisztóliának?',
+	answer: 'egyenes vonal'
+},{
+	question: 'Miért veszélyes, ha az elektród és a test között az ellenállás jelentősen nagyobb, mint 50 Ω (óhm)?',
+	answer: 'A defibrilláló impulzus jelalakja jelentősen megváltozhat, csökkentve annak ingerlő hatását.'
+},{
+	question: 'Miért szükséges a tárcsaelektródon lévő kisütő gombokat egyszerre megnyomni a kezelőnek?',
+	answer: 'Így a kondenzátor feszültsége a tekercsen és korlátozó ellenálláson keresztül kikerül a két tárcsaelektródra, és a mellkason keresztül záródik az áramkör'
+},{
+	question: 'Mire használják a defibrillátorok szinkronfunkcióját?',
+	answer: 'kamrai tachikardia megszűntetésére'
+},{
+	question: 'Mik az előnyei a bifázisos defibrillátor alkalmazásának?',
+	answer: 'kevesebb energiával ugyan olyan hatást ér el; a kondenzátor folyamatos kisütése helyett mindkét fázisban gyors, rövid szaggatott kisütés van'
+},{
+	question: 'Egyre elterjedtebbek az automata defibrillátorok, miért?',
+	answer: 'mert laikusok is tudják használni, programozók írtak rá szoftvert (a gép elvégez méréseket, és elmondja, hogy mit kell csinálni)'
+},{
+	question: 'Mit nevezünk vulnerábilis szakasznak?',
+	answer: 'Az R-hullám utáni 2. egytized másodpercet.'
+},{
+	question: 'A defibrilláló elektródon miért szükséges a csatoló gél alkalmazása?',
+	answer: 'Hogy az elektród és a bőr között jó kontaktus, áramcsatolás legyen.'
+},{
+	question: 'Ismertesse az impulzusdefibrillátorok fő paramétereit (kondenzátorérték, maximális energia)!',
+	answer: 'maximális energia: 360 joule</br>kondenzátorérték: 32 mikrofarad'
+},{
+	question: 'Ismertesse a defibrillátorok energiaellátási lehetőségeit!',
+	answer: 'csak hálózati ellátású; hálózati és beépített ellátású; hálózati és cserélhető akkumlátor egységes; csak cserélhető elemes'
+},{
+	question: 'Mikor kell belső (intern) defibrillátort alkalmazni?',
+	answer: 'két kanálelektróddal nyitott mellkas esetén'
+},{
+	question: 'Milyen esetben szükséges beültethető defibrillátort alkalmazni?',
+	answer: 'ha a készülék és az energiabevitel is a mellkason belül van'
+},{
+	question: 'Ismertesse a defibrillátorok legfontosabb kezelő szerveit!',
+	answer: 'energiabeállító, energiafeltöltés-indító, kisütő gombok, üzemmódválasztó, elvezetésválasztó, EKG-érzékenység beállító, EKG-rajzolásisebesség állító, regisztráló indító-leállító, képrögzítés'
+},{
+	question: 'Ismertesse az életmentő, sürgősségi defibrillálás legfontosabb lépéseit!',
+	answer: 'készülék bekapcsolás, test bezselézése, energiaválasztás, elektródok elhelyezése, sokk leadása'
+},{
+	question: 'Mikor és milyen körülmények között kell szinkrondefibrillálást alkalmazni?',
+	answer: 'Pitvar rendellenes működésekor (de a kamrák jól működnek); az R-hullám utáni 0,1 másodpercben.'
+},{
+	question: 'Miért tilos defibrilálás közben a beteg megérintése?',
+	answer: 'Mert ez esetben az a személy is áramütést szenved, aki megérintette a beteget.'
+},{
+	question: 'Hogyan lehet megőrizni az akkumlátor működőképességét?',
+	answer: 'az akkumlátort teljesen ki kell sütni, majd ismételten feltölteni (ez minden eszköznél így van)'
 }
 ];
 
