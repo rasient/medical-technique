@@ -490,7 +490,124 @@ var questionAnswers = [
 	answer: 'Mert ez esetben az a személy is áramütést szenved, aki megérintette a beteget.'
 },{
 	question: 'Hogyan lehet megőrizni az akkumlátor működőképességét?',
-	answer: 'az akkumlátort teljesen ki kell sütni, majd ismételten feltölteni (ez minden eszköznél így van)'
+	answer: 'az akkumlátort teljesen ki kell sütni, majd ismételten feltölteni (ez minden eszköznél így van).'
+},{
+	question: 'Ismertesse a főbb ingerületképzési hibákat!',
+	answer: 'nincs ingerület</br>kisamplitudójú szabálytalan jelalak</br>túl nagy amplitudó</br>az ingerület szabályos, de túl gyors</br>az ingerület szabályos, de túl lassú</br>az ingerület aritmiás</br>az ingerület sztochasztikus'
+},{
+	question: 'Mit nevezünk bradikardiás zavarnak?',
+	answer: 'alacsony szívfrekvencia'
+},{
+	question: 'Mit nevezünk tachikardiás ritmuszavarnak?',
+	answer: 'szapora szívverés(fibrillációhoz vezethet)'
+},{
+	question: 'Mire való a pacemaker?',
+	answer: 'álló szív újraindítására'
+},{
+	question: 'Elhelyezésük szerint milyen pacemakerek vannak?',
+	answer: 'külső</br>beültethető'
+},{
+	question: 'Ismertesse a mellkasi pacemaker működésének elvét! ',
+	answer: 'Észleli az ingerülethiányt vagy az ingerületvezetési hibát és ezt korrigálja megfelelő helyen, megfelelő módon közölt, megfelelő nagyságú elektromos impulzus közlésével'
+},{
+	question: 'Mikor és milyen körülmények között szükséges a mellkasi pacemakerhasználata?',
+	answer: 'rövid ideig, a kardiológiai vagy koronária intenzív osztályra szállítás időtartamára'
+},{
+	question: 'Ismertesse a mellkasi pacemaker működésének elvét!',
+	answer: 'Észleli az ingerülethiányt vagy az ingerületvezetési hibát és ezt korrigálja megfelelő helyen, megfelelő módon közölt, megfelelő nagyságú elektromos impulzus közlésével.'
+},{
+	question: 'Milyen üzemmódokat ismer?',
+	answer: 'fix</br>demand</br>inhibit'
+},{
+	question: 'Miért előnyös a mozgásvezérelt pacemaker?',
+	answer: 'Szabályzása lehetővé teszi azt, hogy a pacemakeres személy a mozgásból származó teljesítmény növelésre egyre gyorsabb szívfrekvenciával egyre nagyobb véráramláshoz jusson'
+},{
+	question: 'Mi a fix üzemmód lényege?',
+	answer: 'A beállított frekvenciának megfelelő gyakorisággal állandóan ingerli a szívet (függetlenül annak saját ingerképzésétől).'
+},{
+	question: 'Mi a demand üzemmód lényege?',
+	answer: 'Csak akkor küld jelet a pacemaker a szívnek, ha annak ingerületképzése leáll és a pacemakeren beállított időtartományon belül nem jelenik meg az EKG markán R-hullám.'
+},{
+	question: 'Hogyan és milyen elektródát kell használni a mellkasi pacemakernél?',
+	answer: 'Folyamatosan tartani a beteg mellkasán a tárcsaelektródot.'
+},{
+	question: 'Mit nevezünk szabályozott pacemakernek?',
+	answer: 'mozgásérzékeny, légzésérzékeny, pH érzékeny, EKG érzékeny, szívcsúcs-gyorsulás érzékeny'
+},{
+	question: 'Hogyan működik a beépített defibrillátort is tartalmazó pacemaker?',
+	answer: 'fibrilláció érzékelésekor sokkoló impulzust ad'
+},{
+	question: 'Milyen szabványos jelölést alkalmaznak a beültetett pacemakereknél?',
+	answer: '(Nemzetközi szabvány által előírt) három betűből álló kóddal.'
+},{
+	question: 'Ismertesee a pacemakerek betűkódok jelentését!',
+	answer: 'O:none</br>A:atrium</br>V:ventricule</br>D:dual</br>S*:egyik</br>I:inhibited</br>T:triggered</br>R:rate modulation'
+},{
+	question: 'Milyen elektródokat kell használni a mellkasi pacemakernél? ',
+	answer: 'tárcsaelektródot (de ezt le lehet cserélni egyszer használatos öntapadós elektródra)'
+},{
+	question: '.Ismertesse a beültetett pacemakereken állítható paramétereket és azok jellemző értéktartományát!',
+	answer: 'impulzus áram (2-20mA)/br>impulzus frkevencia (40-180ütés/perc/br>triggerszont (0-10V)'
+},{
+	question: '.Ismertesse a külső, invazív pacemakernél a triggerelt üzemmód lényegét!',
+	answer: 'Az AV-csomó működését helyettesíteni képes külső megoldást hozhatunk létre.'
+},{
+	question: '.Mi a frekvenciatartománya a nagyfrekvenciás sebészeti vágókészülékeknek?',
+	answer: '50-100 kHz felett (mert ez már nemigazán ingerli az izmokat, bár a 300kHz a tuti)'
+},{
+	question: 'Milyen felhasználása lehetséges a nagyfrekvenciás sebészeti készülékeknek?',
+	answer: 'szövetek vágása (mert olyan magas a hőmérséklete, hogy roncsolja, vágja a szöveteket), vérzéscsillapítás'
+},{
+	question: 'Milyen hatást használunk ki a vágás közben?',
+	answer: 'magas hőmérsékletet (mint minden  más szakmában is)'
+},{
+	question: 'Miért veszélyes a nagyfrekvenciás szivárgó áram?',
+	answer: 'ellenőrizetlen érintkezési felületen hőhatást fejt ki'
+},{
+	question: 'Milyen anyagbók készülhetnek semleges elektródok?',
+	answer: 'Amelyeknek jó a vezetőképessége.'
+},{
+	question: 'Mik az ideális vágás következményei?',
+	answer: 'nem okoz izomkontrakciót</br>karbonalizálási tartomány nélkül gőzölögteti el a szöveteket'
+},{
+	question: 'Mit nevezünk monopoláris nagyfrekvenciás vágásnak?',
+	answer: 'A kialakuló villamos tér a levegőt ionizálja („begyújtja”), az ív kialakul, a szövet elpárologtatása megindul.'
+},{
+	question: 'Mi a megengedett legnagyobb kiadható teljesítmény monopoláris üzemmódban?',
+	answer: '400W'
+},{
+	question: 'Hová kell elhelyezni a semleges elektródot? -',
+	answer: 'a kivezetési helyre'
+},{
+	question: 'Mit nevezünk bipoláris technikának? ',
+	answer: 'Két szárával elszigetelt csipeszt a nagyfrekvenciás generátorhoz kötve és a működtető lábpedált bekapcsolva, az áramkör a csipesz két vége között lévő anyagon, a csipesszel megfogott szöveten keresztül záródik.'
+},{
+	question: 'Mi okozhat endogén felégést?',
+	answer: 'Amikor a vágási vagy koagulálási területet vagy környezetét alkohollal tisztítják (Ugyanis az elektromos ívvel járó vágás vagy koagulálás begyújtja a színtelen lánggal égő vagy éghető anyagot.)'
+},{
+	question: 'Melyek a befolyásoló tényezői a vágási sebességnek?',
+	answer: 'Az orvos milyen gyorsan mozgatja az elektródot, mekkora teljesítményt állított be.'
+},{
+	question: 'Milyen elektródokat ismer?',
+	answer: 'semleges elektród</br>gömbelektród</br>gumielektród</br>fém elektród</br>ólom elektród</br>egyszer használatos elektród'
+},{
+	question: 'Milyen hangjelzések vannak a nagyfrekvenciás vágókészülékeknél?',
+	answer: 'a vágás tiszta sinusos hang</br>a koagulálás legtöbbször alternáló két sinusos hang váltakozva'
+},{
+	question: 'Mit nevezünk koaguláló hozzákeverésnek, és hol használjuk?',
+	answer: 'A vágó áramhoz vérzéscsillapító áramformát adnak, és ott használják, ahol 1 elektróddal kell mindent megoldani.'
+},{
+	question: 'Ismertesse a bipoláris technikánál az áramutakat!',
+	answer: 'a csipesz két lapja között folyik az áram'
+},{
+	question: 'Mikor és miért kell gumielektródot cserélni?',
+	answer: '2-3 évente, mert deformálódik, rugalmassága csökken, villamos vezetési paramétere erősen leromolhat (minden használat után).'
+},{
+	question: 'Hogyan okozhat felégést, ha beteg hozzáér a fém műtőasztalhoz?',
+	answer: 'Ha a beteg hozzáér a műtőasztal földelt fémrészének egy pontjához (minél kisebb pontjához), jelentős nagyfrekvenciás áram távozik a testből a fém alkatrészen keresztül a földelő hálózatba (a kis felület miatt nagy az áramsűrűség és ez gyorsan átégeti a fémmel érintkező bőrrészt).'
+},{
+	question: 'Mikor jön létre a teljesítmény túladagolás?',
+	answer: 'elgőzölögtetéshez/koaguláláshoz szükséges áramnál nagyobbat alkalmaznak.'
 }
 ];
 
