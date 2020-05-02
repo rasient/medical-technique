@@ -314,6 +314,63 @@ var questionAnswers = [
 },{
 	question: 'Milyen készülék a Dual Source CT?',
 	answer: 'Olyan amilyenben 2-2 90°-ban elforgatott röntgencső és detektorsor található.'
+},{
+	question: 'Mi a frekvenciatartománya a nagyfrekvenciás sebészeti vágókészülékeknek?',
+	answer: '50-100 kHz felett (már nincs izomösszehúzódás, csak hőhatás)</br>300kHz felett már biztosan'
+},{
+	question: 'Milyen felhasználása lehetséges a nagyfrekvenciás sebészeti készülékeknek?',
+	answer: 'szövetek roncsolása, eltávolítása, vágása</br>vérzéscsillapítás, érelzárás</br>koagulálás'
+},{
+	question: 'Milyen hatást használunk ki vágás közben?',
+	answer: 'hőhatás</br>először csak melegednek a szövetek,majd fehérjekicsapódás, vérzéscsillapodás (koaguláció) szövetekben lévő víz elpárolgása, végül a szerves anyagokban lévő szén is elég, így a vágni kívánt szövet egy része eltűnik'
+},{
+	question: 'Miért veszélyes a nagyfrekvenciás szivárgó áram?',
+	answer: 'mert a szivárgó áram nem csak a kezelni kívánt szövetrészeken és a két elektródon halad át, hanem az ép szöveteken is, károsítva azokat</br>felégést akkor okoz, ha a beteg és a műtőasztal közé folyadék kerül (vér, izzadság, vizelet, mosófolyadék)'
+},{
+	question: 'Milyen anyagból készülhetnek a semleges elektródok?',
+	answer: 'ólomlap</br>gumi hordozón fémlapkák</br>fém lap – ma kizárólag ilyet használnak</br>gumi lap'
+},{
+	question: 'Mik az ideális vágás követelményei?',
+	answer: 'helyes operációs technika (vágás sebessége, minősége)</br>jól megtervezett áramút (szövet-elektród távolság)</br>helyesen felrögzített semleges elektród</br>'
+},{
+	question: 'Mit nevezünk monopoláris nagyfrekvenciás vágásnak?',
+	answer: 'olyan vágási módszert, melyben a villamos energiát egy generátorral hozza lérte az operációt végző orvos (tiszta szinuszos 400-1200Hz frekvenciájú, 200V csúcsfeszültségű). Az így kialakuló villamos tér a levegőt ionizálja, ív alakul ki, megindul a szövet elpárologtatása. Az aktív pólus az ahol a vágás történik, a másik pólus, a neutrális pólus, ahol a nagy felületű semleges elektród helyezkedik el.</br>az áramot úgy vezethető el a testből (a semleges elektródon keresztül), hogy az csak az aktív elektród környezetében okozzon jelentős hőhatást'
+},{
+	question: 'Mi a megengedett legnagyobb kiadható teljesítmény monopoláris üzemmódban?',
+	answer: '400 Watt (de célszerű a vágáshoz minimális teljesítményt használni)'
+},{
+	question: 'Hová kell elhelyezni a semleges elektródot?',
+	answer: 'az operációs területhez legközelebb eső végtagra'
+},{
+	question: 'Mit nevezünk bipoláris technikának?',
+	answer: 'olyan beavatkozás, melyben a hagyományos kétpólusú sebészeti eszközök (csipesz, olló, fogó stb.) két pólusát külön-külön villamos pólussá alakították, majd a nagyfrekvenciás generátorra kötötték. A csipeszek között, a szöveten záródik az áram.</br>Az áramsűrűség a két csipeszvég között azonos nagyságú, valamint a hőeloszlás is állandó. Éppen ezért ezt a technikát nem vágásra, hanem kontakt koagulálásra használják.</br>A két csipeszág között az elektromos ellenállást a készülék folyamatosan figyeli, mivel a koagulációs felületet az operáló orvos nem látja (eltakarja az elektród).'
+},{
+	question: 'Mi okozhat endogén felégést?',
+	answer: 'ha a vágási vagy koagulálási felületet helytelenül alkohollal tisztítják'
+},{
+	question: 'Melyek a befolyásoló tényezői a vágási sebességnek?',
+	answer: 'az operációt végző orvos milyen gyorsan mozgatja az elektródot a vágni kívánt szövet felett</br>mekkora a teljesítmény'
+},{
+	question: 'Milyen elektródokat ismer?',
+	answer: 'semleges elektród</br>egyszerhasználatos elektród (osztott és egylapos)</br>gömbelektróda'
+},{
+	question: 'Milyen hangjelzések vannak a nagyfrekvenicás vágókészülékeknél?',
+	answer: 'elektród és a test közötti kontaktus romlásakor</br>ha a vágás és a koag funkció is jelen van, akkor az adott funkció teljesítménykimenetét is hangjelzés kíséri (vág/koagulál-szinuszos/alternáló két szinuszos)'
+},{
+	question: 'Mit nevezünk koaguláló (coag) hozzákeverésnek, hol használják?',
+	answer: 'a mai modern készülékekben használják, amikor arra van szükség, hogy a vágás közben megjelenő szivárgó vérzést is csillapítsák (koaguláció). Együttesen optimalizálja a vágás és a koagulálás teljesítményét.'
+},{
+	question: 'Ismertesse a bipoláris technikánál az áramutakat!',
+	answer: 'az áramút jelentősen lecsökken a monopolárishoz képest (5-10mm)</br>az áram csak a két csipeszág között jön létre, és a szöveten záródik.'
+},{
+	question: 'Mikor és miért kell gumielektródot cserélni?',
+	answer: 'amennyiben elöregedik a gumi (általában 2-3 év), hiszen ilyenkor:</br>az elektród teljes felületének ellenállása nő,</br>a teljesítmény egyre nagyobb része hő formájában jelentkezik</br>nő a felégés veszélye</br>csökken a vágás hatásossága, egyenletessége'
+},{
+	question: 'Hogyan okozhat felégést, ha a beteg hozzáér a fém műtőasztalhoz?',
+	answer: 'A földelt fém részekhez érő testrészen keresztül jelentős nagyfrekvenciás áram távozik a testből-a fém alkatrészen keresztül- a földelő hálózatba. Ilyenkor átég az érintkező bőrfelület.'
+},{
+	question: 'Mikor jön létre a teljesítmény túladagolása?',
+	answer: 'a fehérjekicsapódás 70°C-on következik be, ha ezt követően tovább melegítjük a felületet, a felület elszenesedik, megég (túlkoagulálás). Ez nehezíti a sebgyógyulást.'
 }
 ];
 
