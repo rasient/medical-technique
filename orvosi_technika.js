@@ -608,6 +608,66 @@ var questionAnswers = [
 },{
 	question: 'Mikor jön létre a teljesítmény túladagolás?',
 	answer: 'elgőzölögtetéshez/koaguláláshoz szükséges áramnál nagyobbat alkalmaznak.'
+},{
+	question: 'Mi az infúziós technika fiziológia jelentősége?',
+	answer: '​A sejtközi térbe gyógyászati célból tápanyagokat, gyógyszereket juttatnak.'
+},{
+	question: 'Milyen adagolási pontosságot képesek megvalósítani az infúziós eszközök?',
+	answer: '​a gravitációs 75%-kos pontosságot</br>a fecskendős 95%-kos pontosságot</br>a pumpás 98%-kos pontosságot'
+},{
+	question: 'Mi a hagyományos gravitációs infúziós eszközök működési elve?',
+	answer: 'Olyan magasan kell lennie a folyadékoszlopnak, hogy nagyobb legyen a nyomása, mint a vénának (amié 20-30mmHg).'
+},{
+	question: 'Milyen magasra kell emelni az infúziós oldatot hagyományos infúziós adagolás során?',
+	answer: 'minimum ​30-40cm</br>tuti s 80-100cm'
+},{
+	question: 'Szokásos infúziós oldat és cseppkamra esetében hány csepp 1ml?',
+	answer: 'általában 20 csepp'
+},{
+	question: 'Ha egy óra alatt kell bejuttatni 0,5l folyadékot, milyen gyorsan kell csepegnie a cseppkamrába?',
+	answer: '​kerekítve 2,78 cseppnek kell csepegnie másodpercenként (kb 3 csepp / sec)'
+},{
+	question: 'Mit lehet tenni a gravitációs infúziónál, ha a szokásosnál jóval intenzívebb adagolás kell?',
+	answer: 'fecskendővel levegőt adagolunk a folyadéktér felé (ez által nő a nyomás és gyorsabban folyik be a cucc)'
+},{
+	question: 'Mi történik, ha a gravitációs infúziónál a folyadék kifogy?',
+	answer: '​Nem fogy ki, mert egy idő után akkora lesz a folyadék nyomása, mint a vénában -> megáll a folyadékáramlás.'
+},{
+	question: 'Hogyan működnek a dugattyús infúziós pumpák?',
+	answer: '​A dugattyú periódikus oda-vissza mozgást végez, amely egy kis térbe folyadékot fogad be, majd tol ki.'
+},{
+	question: 'Hogyan működnek a lineáris perisztaltikus infúziós pumpák?',
+	answer: '​A készülékbe behelyezett, oda pontosan illő külső és belső méretű műanyag csövében a folyadékot 10-15 db tolórúd „masszírozza” át úgy, hogy a rudak egymás után a csövet megszorítva, mintegy tovább tolják a folyadékot.'
+},{
+	question: 'Hogyan működnek a forgó perisztaltikus infúziós pumpák?',
+	answer: 'A csőben úgy halad a folyadék, hogy 2 görgő közrefog egy folyadékadagot, és a forgásával eltolja.'
+},{
+	question: 'Hogyan működnek a fecskendős infúziós pumpák?',
+	answer: '​A bejuttatandó folyadékot tartalmazó műanyag fecskendő dugattyúját egy vezérelten mozgó szerkezet nyomja be, helyettesítve az emberi kezet.'
+},{
+	question: 'Melyik eszközt szokás perfúzornak nevezni?',
+	answer: '​fecskendős infúziós pumpát'
+},{
+	question: '14.Mi a perfúzor előnye?',
+	answer: '​pontos, jól programozható'
+},{
+	question: 'Mi jellemzi a hordozható infúziós pumpákat?',
+	answer: '​Mobiltelefon méretű eszközök, a fecskendős vagy a forgó perisztaltikus elvet használó adagolóval rendelkeznek és adagolásuk programozható.'
+},{
+	question: 'Mi a gyógyszerport az infúziós technikában?',
+	answer: 'Tolerálható helyre a bőr alá egy fogadó állomást (gyógyszerportot) helyeznek, innen vékony csövecskét vezetnek a célterületre. (A szükséges időben úgy adagolják be a gyógyszert, hogy tűvel átszúrják a bőrt, a port-ba fecskendezik a gyógyszert, ami a csövön keresztül a célhelyre jut.)'
+},{
+	question: 'Hogyan működnek a beültetett infúziós pumpák?',
+	answer: 'Olyan, mint a gyógyszerport, csak itt a gyógyszerport helyett a teljes infúziós pumpát ültetik be a bőr alá (ezt meg csak néhány naponta kell szúrkálni utántöltés végett).'
+},{
+	question: 'Milyen jellemző szolgáltatásait ismeri az ágymelletti infúziós pumpáknak?',
+	answer: 'dugulásérzékelés</br>bólus löket</br>KVO</br>nyomásérzékelő</br>buborékfigyelő</br>kiürülés figyelő</br>szerelék felismerés</br>akku ellenőr'
+},{
+	question: 'Milyen szempontoknak kell figyelembe venni az infúziós pumpák alkalmazásakor?',
+	answer: 'egyszer használatos szerelékek, előírt szerelékekkel kell használni, légteleníteni a csövet, rendszeres pácienskontroll, időszakos ellenőrzés'
+},{
+	question: 'Milyen veszélye van az előírttól eltérő szerelékek használatának?',
+	answer: 'pontatlan adagolás</br>rendellenes működés</br>üzemképtelenség'
 }
 ];
 
