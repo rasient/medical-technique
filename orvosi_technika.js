@@ -609,6 +609,66 @@ var questionAnswers = [
 	question: 'Mikor jön létre a teljesítmény túladagolás?',
 	answer: 'elgőzölögtetéshez/koaguláláshoz szükséges áramnál nagyobbat alkalmaznak.'
 },{
+	question: 'Ismertesse a hővezetés lényegét!',
+	answer: 'a hő terjedése szilárd anyagokban egyik pontról a másikban (melegebb felől a hidegebb felé)'
+},{
+	question: 'Ismertesse a hőáramlás lényegét!',
+	answer: '​hőátadás folyadékokban, gázokban'
+},{
+	question: 'Ismertesse a hősugárzás lényegét!',
+	answer: 'kuntaktus nélkül is terjed a hő (ne kell közvetítő közeg, jó a vákuum is)'
+},{
+	question: 'Mi az inkubátor feladata?',
+	answer: '​megvédje a csecsemőt a kihűléstől'
+},{
+	question: 'Miből adódik a csecsemő hővesztesége?',
+	answer: 'nincs hőháztartása </br>-> nem tud alkalmazkodni a hideghez </br>-> a felülete nagyobb a tömegéhez képest </br>-> kilégzéssel is veszít hőt'
+},{
+	question: 'Sorolja fel az inkubátorokkal szemben támasztott követelményeket!',
+	answer: 'klimatikus állapot fenntartása</br>állandó megfigyelés és kontroll</br>meg lehet vele oldani a szállítást (akár télen is)'
+},{
+	question: 'Milyen inkubátorfajtákat ismer?',
+	answer: '​általános</br>klinikai</br>hordozható</br>nyílt(inkubátor)'
+},{
+	question: 'Milyen elvárásoknak feleljen meg az inkubátorok búrája?',
+	answer: '​megszűri a környezeti hangokat</br>átlátszó</br>a káros UV sugárzások bejutását megakadályozza, de lehetővé teszi a búrán keresztül a fényterápiák alkalmazását'
+},{
+	question: 'Sorolja fel az inkubátorok főbb részegységeit!',
+	answer: 'villamos táplálású fűtőtest</br>ventilátoros légkeverő</br>fűtésszabályozó</br>második védelmi rendszer</br>párásító</br>baktériumszűrő</br>oxigénkoncentráció-beállító</br>fekvőfelület</br>búra</br>kerekes állvány'
+},{
+	question: 'Hogyan működik a csecsemővezérelt inkubátor?',
+	answer: '​A csecsemő bőrére ragasztott hőmérő vezérli a fűtést.'
+},{
+	question: 'Ismertesse a második védelmi rendszer lényegét!',
+	answer: '​Túlfűtésnél riaszt, és lekapcsol.'
+},{
+	question: 'Ismertesse a klinikai inkubátorban a duplafalú „bölcső” hőtechnikai szerepét!',
+	answer: '​A csecsemő sugárzásos hőveszteségét teljesen kiküszöböli, mert a belső fal hőmérséklete megegyezik a belső levegő hőmérsékletével és közelítőleg azonos a csecsemő hőmérsékletével.'
+},{
+	question: 'Sorolja fel az inkubátoron a lényegesebb riasztási funkciókat!',
+	answer: 'fényjelzések:</br>piros - veszély</br>sárga - figyelmeztetés</br>zöld - helyes működés<br>gyakori még a hangjelzés is'
+},{
+	question: 'Mit jelent a légzésből származó hőveszteség?',
+	answer: '​a kilélegzett levegő melegebb, mint a belélegzett (magas páratartalmú a kilélegzett levegő, melynek hőmérséklete 37 C) (hőveszteséget jelent továbbá az, hogy a belélegzett környezeti levegőt a tüdő 37C-ra melegíti fel)'
+},{
+	question: 'Milyen mértékben dúsítható a búratérben az oxigén?',
+	answer: '​Max 40 térfogatszázalékon legyen az oxigénszint.'
+},{
+	question: 'Ismertesse a búratéri oxigénezés technikai megoldásának lényegét!',
+	answer: 'Oxigénpalackról nyomáscsökkentőn keresztül szeleppel adagolható oxigén.'
+},{
+	question: 'Mire használják a csecsemőinkubátorban a fejbúrát?',
+	answer: ​'jelentősen csökkentsék a felhasznált oxigén mennyiségét'
+},{
+	question: 'Milyen méréstechnikai megoldással mérhető az orrszondás oxigénterápia hatékonysága?',
+	answer: '​a csecsemő közvetlen vitális paramétereit kell vizsgálni a vér oxigénkoncentrációjának mérésére alkalmas pulzoximéter alkalmazásával'
+},{
+	question: 'Hogyan biztosítható a hordozható inkubátor állandó villamosenergia ellátása?',
+	answer: '​Készülékbe, vagy a készülékhez csatolható hordtáskában elhelyezett akkumulátorokkal. (Ezek az akkumlátorok a hálózatról saját töltőn keresztül tölthetők, de ez az inkubátor a mentőautó villamosenergia hálózatáról közvetlenül is működtethető.)'
+},{
+	question: 'Milyen kiegészítő fényterápiát ismer az inkubátorban az újszülöttek kezelésére?',
+	answer: '​kékfényterápia'
+},{
 	question: 'Mi az infúziós technika fiziológia jelentősége?',
 	answer: '​A sejtközi térbe gyógyászati célból tápanyagokat, gyógyszereket juttatnak.'
 },{
