@@ -728,6 +728,63 @@ var questionAnswers = [
 },{
 	question: 'Milyen veszélye van az előírttól eltérő szerelékek használatának?',
 	answer: 'pontatlan adagolás</br>rendellenes működés</br>üzemképtelenség'
+},{
+	question: 'Melyek lehetnek a XXI. századi egészségügy kihívásai?',
+	answer: 'öregedő társadalom-> kevesebb aktív szakembernek kell majd ellátnia a betegeket</br>az egyre jobb ellátás egyre drágább'
+},{
+	question: 'Melyek lehetnek a XXI. századi egészségügy kitörési pontjai?',
+	answer: 'gyors és hatékony szakellátás</br>fejlettebb, egészség iránt elkötelezettebb egészségkultúr</br>a lakosság magasabb fokú önellátó képessége'
+},{
+	question: 'Hogyan csoportosíthatók a házi ápolás eszközei?',
+	answer: '​fiziológiai működést támogató, segítő eszközök</br>diagnosztikai eszközök</br>terápiás eszközök</br>egyéb eszközök</br>gyógyászati segédeszközök'
+},{
+	question: 'Milyen home care adjuvatikai eszközöket ismer?',
+	answer: '​inzulinpumpa</br>tolószék</br>pacemaker</br>felnőtt pelenka'
+},{
+	question: 'Milyen home care diagnosztikai eszközöket ismer?',
+	answer: '​vérnyomásmérő</br>EKG</br>vércukorszintmérő</br>légzési áramlásmérő</br>hőmérő</br>pulsoximeter</br>csecsemőlégzés-figyelő és riasztókészülék'
+},{
+	question: 'Milyen home care terápiás eszközöket ismer?',
+	answer: '​gyógyszeradagoló/br>gyógyszerporlasztó/br>párásító/br>TENS/br>felfekvést megelőző matrac</br>oxigénkoncentrátor</br>polarizált lámpa'
+},{
+	question: 'Mi a fitness- és wellnesseszközök jelentőége?',
+	answer: '​Semmilyen bajt nem csinálnak. :)'
+},{
+	question: 'Mire kell ügyelni a fitness- és wellnesseszközök használatánál?',
+	answer: 'Bizonyítatlan eszközök -> nem biztos, hogy használnak.'
+},{
+	question: 'Mit nevezünk gyógyászati segédeszköznek?',
+	answer: '​Azok az eszközök, amelyek:</br>- fogyatékosság kezelésére</br> -tüneteinek enyhítésére vagy kompenzálására</br> -illetőleg anatómiai felépítés vagy valamely fiziológiai folyamat pótlására, módosítására szolgálnak.'
+},{
+	question: 'Mi a telemedicina jelentősége?',
+	answer: '​Használatával egyszerűbbé válhat a beteg állapotának nyomonkísérése.'
+},{
+	question: 'Mit valósít meg az otthonápolási távfelügyeleti rendszer?',
+	answer: '​páciensek állapotának követését'
+},{
+	question: 'Mit nyújt az intelligens páciensmenedzsment-rendszer?',
+	answer: '​figyeli és kiértékeli az állapotunkat</br>szervezi az ellátást</br>a hangsúlyt a megelőzésre helyezi</br>páciensközpontú</br>informatikai támogatást alkalmaz'
+},{
+	question: 'Mi jellemzi a home care eszközök használatát?',
+	answer: 'Használatuk nem igényel speciális előkészületeket</br>kevés kezelőszervet tartalmaz</br>a lehető legnagyobb mértékig automatizált'
+},{
+	question: 'Mit érdemes tudni a home care vérnyomásmérőről?',
+	answer: '​A mérés egész időtartama alatt a mozgás, beszéd, izomfeszítés kerülendő.'
+},{
+	question: 'Mit érdemes tudni a home care EKG-ról?',
+	answer: '​Többnyire a két kéz közötti elvezetést rögzítik, de ezt nagyon kényelmesen és segédeszközök nélkül.'
+},{
+	question: 'Mit érdemes tudni a home care vércukorszintmérőről?',
+	answer: 'Használata gondos előkészítést igényel, és több lépésben történik.'
+},{
+	question: 'Mit érdemes tudni a home care hőmérsékletmérőről?',
+	answer: '​A higanyosat gyerekek esetében ne használjuk. Az elektromos fél perc alatt mér, de ez nem elég idő ahhoz, hogy kialakuljon a maghőmérséklet a hónaljban (2-3perc ottart).'
+},{
+	question: 'Mire kell vigyázni a terápiás home care eszközöknél?',
+	answer: 'A terápia megkezdése előtt minden esetben ki kell kérni szakember véleményét és tanácsait a működtetést illetően.'
+},{
+	question: 'Mi a használati útmutató jelentősége?',
+	answer: '​Ebben szerepelnek a készülékkezelésének módján túl a használati ajánlások, kockázatok is.'
 }
 ];
 
